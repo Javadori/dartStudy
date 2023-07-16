@@ -1,5 +1,6 @@
 void main() {
   basicList();
+  print('--------');
 }
 
 // list 타입
